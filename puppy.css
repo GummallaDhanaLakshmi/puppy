@@ -1,0 +1,158 @@
+body
+{
+    /* background-color: yellow; */
+    background-image: url("https://www.ultraimagehub.com/wallpapers/tr:flp-false,gx-0.5,gy-0.4,q-75,rh-3264,rw-5824,th-1080,tw-1920/1272569550155681802.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+.nav ul
+{
+    display: flex;
+    justify-content: center;
+    gap:40px;
+}
+li
+{
+    list-style-type: none;
+}
+a 
+{
+    text-decoration: none;
+    color: black;
+    font-family: monospace;
+    font-size: 20px;
+}
+
+#page1
+{
+    background-color: white;
+    border-radius: 10px;
+    width:1200px;
+    height:500px;
+    margin-top: 300px;
+    margin-left: 200px;
+    display: flex;
+    
+    
+}
+.box11
+{
+    border:2px solid white;
+    width:700px;
+    height:400px;
+    margin-left: 150px;
+    margin-top: 40px;
+    display: flex;
+    justify-content: space-evenly;
+    
+    
+}
+.box1b img 
+{
+    width:400px;
+    height: 300px;
+    margin-top: 50px;
+    
+}
+.text1
+{
+    margin-top: 50px;
+    margin-left: 90px;
+}
+#page2 
+{
+    background-color: white;
+    border-radius: 10px;
+    width:900px;
+    height:500px;
+    margin-bottom: 300px;
+    margin-top: 100px;
+    margin-left: 200px;
+    display: flex;
+    
+    
+}
+.box1
+{
+    border:2px solid white;
+    width:700px;
+    height:400px;
+    margin-left: 150px;
+    margin-top: 40px;
+    display: flex;
+    justify-content: space-evenly;
+    
+    
+}
+.box img 
+{
+    width:400px;
+    height: 300px;
+    margin-top: 50px;
+    
+}
+.text 
+{
+    margin-top: 50px;
+    margin-left: 90px;
+}
+#page3
+{
+    background-color: white;
+    border-radius: 10px;
+    width:900px;
+    height:500px;
+    margin-bottom: 300px;
+    margin-top: 100px;
+    /* margin-left: 200px; */
+    display: flex;
+    
+
+    
+    
+}
+.box3
+{
+    border:2px solid white;
+    width:700px;
+    height:400px;
+    margin-left: 150px;
+    margin-top: 30px;
+    display: flex;
+    justify-content: space-evenly;
+    
+    
+}
+.box4 img 
+{
+    width:400px;
+    height: 300px;
+    margin-top: 50px;
+    
+}
+.text3 
+{
+    margin-top: 50px;
+    margin-left: 90px;
+}
+ .parallax
+{
+    background-image: url("https://free-3dtextureshd.com/wp-content/uploads/2024/04/120.jpg.webp");
+    width:1300px;
+    height:900px;
+    margin-left: 150px;
+    display: flex;
+    justify-content: center;
+    margin-top: 500px;
+   
+
+  /* Set a specific height */
+  min-height: 500px; 
+
+  /* Create the parallax scrolling effect */
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+} 
